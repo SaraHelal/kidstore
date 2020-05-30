@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>867D973C-A161-46EE-94D4-3B8D0D6A6FC6</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="17.5" cy="17.5" r="17.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="35" height="35" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet-Portrait-Copy" transform="translate(-46.000000, -1014.000000)">
+            <g id="Group" transform="translate(46.000000, 1014.000000)">
+                <g id="facebook">
+                    <rect id="Rectangle" x="0" y="0" width="35" height="35"></rect>
+                    <use id="Oval" stroke="#5D5D5D" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                    <path d="M18.5457886,27.8409091 L14.6659878,27.8409091 L14.6659878,18.6920271 L12.7272727,18.6920271 L12.7272727,15.5396293 L14.6659878,15.5396293 L14.6659878,13.6470359 C14.6659878,11.0754645 15.7601082,9.54545455 18.8705871,9.54545455 L21.4594918,9.54545455 L21.4594918,12.6990071 L19.8414264,12.6990071 C18.6305444,12.6990071 18.5505302,13.1395345 18.5505302,13.9616983 L18.5451959,15.5396293 L21.4772727,15.5396293 L21.1341006,18.6920271 L18.5451959,18.6920271 L18.5451959,27.8409091 L18.5457886,27.8409091 Z" id="Shape" fill="#5D5D5D"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
